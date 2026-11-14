@@ -44,3 +44,5 @@ Paste your real output here after running `python -m pytest -q` locally and on G
 GitHub Actions run: 
 https://github.com/nicky81818/comp7082_reliable_programming/actions/runs/43540835546/job/132280773842
 ![alt text](image.png)
+
+AI was used as a tool for this assignment.
