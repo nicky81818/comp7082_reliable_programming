@@ -34,7 +34,7 @@
 - Two truly simultaneous checkouts with the same `request_id` could both reach the gateway; the unique index stops a duplicate order row but not the second charge.
 
 ## Test results
-Paste your real output here after running `python -m pytest -q` locally and on GitHub:
+On local:
 
 ```
 ......................................                                                                                            [100%]
